@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Maven: org.mongodb:mongodb-driver:3.0.4">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/mongodb/mongodb-driver/3.0.4/mongodb-driver-3.0.4.jar!/" />
+    </CLASSES>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/mongodb/mongodb-driver/3.0.4/mongodb-driver-3.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
